@@ -1,0 +1,68 @@
+/* All your custom styles go here. You can override the default Bootstrap styles or add your own custom styles for elements, classes, or IDs.  */
+.container-fluid {
+    background-color: lightgrey;
+    height: 100vh;
+}
+
+
+.site-title {
+    font-size: 32pt;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    background-color: lightyellow;
+    font-size: 18pt;
+}
+
+.col-sm-1 {
+    background-color: lightgrey;
+    text-align: right;
+}
+
+.col-sm-2 {
+    background-color: lightgrey;
+    text-align: left;
+}
+
+.col-sm-3 {
+    background-color: lightgrey;
+}
+
+.col-sm-12 {
+    background-color: lightgrey;
+}
+
+.cards1 {
+    background-color: lightblue;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.text1 {
+    font-size: 14pt;
+}
+
+.cards2 {
+    background-color: lightyellow;
+}
+
+.title2 {
+    background-color: lightsteelblue;
+    border-radius: 2px;
+    font-size: 18pt;
+    padding: 10px;
+}
+
+.btn-primary {
+    background-color: slategrey;
+    border-radius: 4px;
+    text-align: center;
+    padding: 15px;
+}
+
+.btn-primary:hover {
+    background-color: purple;
+}
